@@ -16,6 +16,7 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Imports:
     readr,
+    rio,
     ggplot2,
     dplyr,
     FourCePhase2.1Data,
